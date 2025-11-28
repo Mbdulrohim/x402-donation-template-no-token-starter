@@ -5,7 +5,7 @@ A list of potential themes to implement as separate branches.
 ## 🗓️ Holidays & Seasonal
 - [x] **Christmas** (`theme/christmas`)
     - Deep red/green/gold, snowfall animation, glassmorphism cards.
-- [ ] **Thanksgiving** (`theme/thanksgiving`)
+- [x] **Thanksgiving** (`theme/thanksgiving`)
     - Warm autumn colors, falling leaves, "Give Thanks" theme.
 - [ ] **Easter** (`theme/easter`)
     - Pastel colors, hidden egg hunt interactions, bunny animations.
